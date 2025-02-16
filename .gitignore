@@ -1,0 +1,14 @@
+# Ignoriranje modela i velikih fajlova
+model_vozila_v2.keras
+*.h5
+*.zip
+
+# Ignoriranje lokalnih Python fajlova
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Ignoriranje Office i dokumenata
+*.docx
+*.pdf
